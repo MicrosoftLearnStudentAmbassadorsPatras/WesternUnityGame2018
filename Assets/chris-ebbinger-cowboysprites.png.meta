@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 3cb9ee22a4e45f1428a8dc8e626202d2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chris-ebbinger-cowboysprites_0
+    21300002: chris-ebbinger-cowboysprites_1
+    21300004: chris-ebbinger-cowboysprites_2
+    21300006: chris-ebbinger-cowboysprites_3
+    21300008: chris-ebbinger-cowboysprites_4
+    21300010: chris-ebbinger-cowboysprites_5
+    21300012: chris-ebbinger-cowboysprites_6
+    21300014: chris-ebbinger-cowboysprites_7
+    21300016: chris-ebbinger-cowboysprites_8
+    21300018: chris-ebbinger-cowboysprites_9
+    21300020: chris-ebbinger-cowboysprites_10
+    21300022: chris-ebbinger-cowboysprites_11
+    21300024: chris-ebbinger-cowboysprites_12
+    21300026: chris-ebbinger-cowboysprites_13
+    21300028: chris-ebbinger-cowboysprites_14
+    21300030: chris-ebbinger-cowboysprites_15
+    21300032: chris-ebbinger-cowboysprites_16
+    21300034: chris-ebbinger-cowboysprites_17
+    21300036: chris-ebbinger-cowboysprites_18
+    21300038: chris-ebbinger-cowboysprites_19
+    21300040: chris-ebbinger-cowboysprites_20
+    21300042: chris-ebbinger-cowboysprites_21
+    21300044: chris-ebbinger-cowboysprites_22
+    21300046: chris-ebbinger-cowboysprites_23
+    21300048: chris-ebbinger-cowboysprites_24
+    21300050: chris-ebbinger-cowboysprites_25
+    21300052: chris-ebbinger-cowboysprites_26
+    21300054: chris-ebbinger-cowboysprites_27
+    21300056: chris-ebbinger-cowboysprites_28
+    21300058: chris-ebbinger-cowboysprites_29
+    21300060: chris-ebbinger-cowboysprites_30
+    21300062: chris-ebbinger-cowboysprites_31
+    21300064: chris-ebbinger-cowboysprites_32
+    21300066: chris-ebbinger-cowboysprites_33
+    21300068: chris-ebbinger-cowboysprites_34
+    21300070: chris-ebbinger-cowboysprites_35
+    21300072: chris-ebbinger-cowboysprites_36
+    21300074: chris-ebbinger-cowboysprites_37
+    21300076: chris-ebbinger-cowboysprites_38
+    21300078: chris-ebbinger-cowboysprites_39
+    21300080: chris-ebbinger-cowboysprites_40
+    21300082: chris-ebbinger-cowboysprites_41
+    21300084: chris-ebbinger-cowboysprites_42
+    21300086: chris-ebbinger-cowboysprites_43
+    21300088: chris-ebbinger-cowboysprites_44
+    21300090: chris-ebbinger-cowboysprites_45
+    21300092: chris-ebbinger-cowboysprites_46
+    21300094: chris-ebbinger-cowboysprites_47
+    21300096: chris-ebbinger-cowboysprites_48
+    21300098: chris-ebbinger-cowboysprites_49
+    21300100: chris-ebbinger-cowboysprites_50
+    21300102: chris-ebbinger-cowboysprites_51
+    21300104: chris-ebbinger-cowboysprites_52
+    21300106: chris-ebbinger-cowboysprites_53
+    21300108: chris-ebbinger-cowboysprites_54
+    21300110: chris-ebbinger-cowboysprites_55
+    21300112: chris-ebbinger-cowboysprites_56
+    21300114: chris-ebbinger-cowboysprites_57
+    21300116: chris-ebbinger-cowboysprites_58
+    21300118: chris-ebbinger-cowboysprites_59
+    21300120: chris-ebbinger-cowboysprites_60
+    21300122: chris-ebbinger-cowboysprites_61
+    21300124: chris-ebbinger-cowboysprites_62
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dfb7c06c4dfd747a83876ad5f3f421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d0a579648a0de4e970b77fcd575ebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81722eeda1afd73438a28044fd1ca386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe84750e3b646428747e84d5e73c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0096f13c29ae46a71e34bc2e088b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da5987e08705b543988e62c689deb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1fb6f9cd90b4d41a375d10c57dafd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 448
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2051550280fad4497708f8559ddda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c543d06e6c79c444499d95aad9cc5211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 376
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ec3e19b89ba634187755bb795396ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f406870bff7cb5b4ab24d1930a1677b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7640031aafe8034c93e1b5fae36c876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908bee53a5c6fe4bbe5274e109db521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d504483b59bf4281936f5c5cf585b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47554ce68b3a7b46932ecd5ccbd9824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d911c510853eb4db9715f86641c198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff921a41c2b10e43af3288ba5e2b577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 384
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380a73f8a107984aa5bc510dffe3810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d2d8a2a181d04aa0031284642a7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77ca20014e5364b9d3467f358f389c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0544ec0588fb4692ac8edcd42550c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbaf176e0a18c74f8be0d0231b83bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c4f330e0f89f418e5ff4c412b37b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc0ed82faadd7241a677e2b64baec39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34339a9c058718044a7829c8c15b8b1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665d56fc07666674d99305fc13f7eb0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_26
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 208
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05348b0e43f67b048b13e309595ab496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 254
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa45a83157bbc441aca49c884b74239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ed5dd619963b46a48bcb11743e220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42fd33b758823949bec44914bd4c3c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f4fb27dad2e947ad1057a8e4f9b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cbeb477d8ea54dbf492064002ea3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a8e0e2ae85154494bcc170286821f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9f92a9a1acfe246943b9cac3760e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d369314e62fb4445bfcb660d5bbaf30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627cca7e0ff3e5f4dad373598014d89b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 248
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9678699a2a2a746ac3fa724dabb76f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2df90fce3cf504b8e3f76bfbe9c7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d395482c93286d34d99fbfec3fbdf1ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f008d4f4037047b9372b3e80ed5cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4824904bd3b847b49dd63ad8c4c38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446a2d3aeb314a4d8ed80c0254497a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1e85e1557da644a97406cd47492742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_43
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92dd993fe275f42ab8100189468ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 192
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ea9c5273608d40bfa95b6c0d2cdf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 134
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6aacf189cb4a647ac04d8ba0752f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee4a5c7cff6b947996d709fce9e089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 256
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48cba7fc385e1247a3dcb3ce45c7595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 156
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a94e0b6ed1f8428f01fa0e3d1adaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 138
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e25511438e0094aad6f56698f68e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_50
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 126
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a66b3d158976243bbc10764688ca13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 138
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012882901f7ff0345934d9de3c698223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 142
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a47ac917de56b4fa08110208f9ea91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de9247808795348916959cf7870794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_54
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 112
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99823ea58f1e9a0469841b1fd916e131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 82
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a96384b51f7804aa8bb24507c03052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_56
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc439d2743b314fafb79910b090d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f114e7657ce240aebf7ea11cfc92a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_58
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 88
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b744a0574c879643ae08f8ad41da2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 74
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe36bee7c32a414fa4d60845c2f2422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_60
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 70
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d8413498457047a95958c9ba0a388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 62
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fec8e4d4d9cfd48901957eb5f1ab64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris-ebbinger-cowboysprites_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 58
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f10933a675ba44bf4e47e078d079c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9150bf87d7d0f0b40ad1babda872973c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
